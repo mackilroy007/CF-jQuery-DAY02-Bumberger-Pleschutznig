@@ -1,0 +1,28 @@
+var fotos = `[{
+	"foto": "img/african-american.jpg",
+	 "info": "african"
+},
+{
+    "foto": "img/children.jpg",
+	 "info": "children"
+},
+{
+    "foto": "img/disneyland.jpg",
+	 "info": "disneyland"
+},
+{
+    "foto": "img/escalator.jpg",
+	 "info": "escalator"
+},
+{
+    "foto": "img/family.jpg",
+	 "info": "family"
+},
+{
+    "foto": "img/girls.jpg",
+	 "info": "girls"
+},
+{
+    "foto": "img/mountain.jpg",
+	 "info": "mountain"
+}]`
