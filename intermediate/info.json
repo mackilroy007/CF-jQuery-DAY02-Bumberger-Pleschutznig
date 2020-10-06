@@ -1,28 +1,35 @@
 var fotos = `[{
-	"foto": "img/african-american.jpg",
-	 "info": "african"
+	"foto": "img/giphy1.gif",
+	 "alt": "Trump gif",
+	 "info": "speaking."
 },
 {
-    "foto": "img/children.jpg",
-	 "info": "children"
+    "foto": "img/giphy2.gif",
+	 "alt": "Trump gif",
+	 "info": "surfing."
 },
 {
-    "foto": "img/disneyland.jpg",
-	 "info": "disneyland"
+    "foto": "img/giphy3.gif",
+	 "alt": "Trump gif",
+	 "info": "drinking water for the first time."
 },
 {
-    "foto": "img/escalator.jpg",
-	 "info": "escalator"
+    "foto": "img/giphy4.gif",
+	 "alt": "Trump gif",
+	 "info": "a very bigly man."
 },
 {
-    "foto": "img/family.jpg",
-	 "info": "family"
+    "foto": "img/giphy5.gif",
+	 "alt": "Trump gif",
+	 "info": "exuberant man."
 },
 {
-    "foto": "img/girls.jpg",
-	 "info": "girls"
+    "foto": "img/giphy6.gif",
+	 "alt": "Trump gif",
+	 "info": "doesn't care about you."
 },
 {
-    "foto": "img/mountain.jpg",
-	 "info": "mountain"
+    "foto": "img/giphy7.gif",
+	 "alt": "Trump gif",
+	 "info": "dancing like a pro."
 }]`
