@@ -1,27 +1,27 @@
 var fotos = `[{
 	"foto": "img/giphy1.gif",
 	 "alt": "Trump gif",
-	 "info": "speaking."
+	 "info": " is speaking the truth."
 },
 {
     "foto": "img/giphy2.gif",
 	 "alt": "Trump gif",
-	 "info": "surfing."
+	 "info": "surfs down Pen Ave."
 },
 {
     "foto": "img/giphy3.gif",
 	 "alt": "Trump gif",
-	 "info": "drinking water for the first time."
+	 "info": "drinks water for the first time."
 },
 {
     "foto": "img/giphy4.gif",
 	 "alt": "Trump gif",
-	 "info": "a very bigly man."
+	 "info": "is a very bigly man."
 },
 {
     "foto": "img/giphy5.gif",
 	 "alt": "Trump gif",
-	 "info": "exuberant man."
+	 "info": "is an exuberant man."
 },
 {
     "foto": "img/giphy6.gif",
@@ -31,5 +31,5 @@ var fotos = `[{
 {
     "foto": "img/giphy7.gif",
 	 "alt": "Trump gif",
-	 "info": "dancing like a pro."
+	 "info": "dances like a pro."
 }]`
